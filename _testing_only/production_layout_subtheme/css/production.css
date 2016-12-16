@@ -1,0 +1,6 @@
+@media all and (min-width: 851px) {
+    .production {
+        margin-left: 0 !IMPORTANT;
+        width: 100%;
+    }
+}

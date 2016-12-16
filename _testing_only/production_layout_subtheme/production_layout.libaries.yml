@@ -1,0 +1,5 @@
+production-styling:
+  version: VERSION
+  css:
+    production:
+      css/production.css: {}

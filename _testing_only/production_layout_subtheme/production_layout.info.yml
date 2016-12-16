@@ -4,6 +4,8 @@ description: Subtheme of Bartik, TESTING ONLY
 core: 8.x
 # Defines the base theme
 base theme: bartik
+libraries:
+  - production_theme/production-styling
 # Regions
 regions:
   header: Header

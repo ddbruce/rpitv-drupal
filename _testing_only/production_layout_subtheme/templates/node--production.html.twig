@@ -76,9 +76,10 @@
     'clearfix',
   ]
 %}
-{{ attach_library('classy/node') }}
+{# attach_library('classy/node') #}
 <div id="production_test"></div>
 <article{{ attributes.addClass(classes) }}>
+  {{ content.field_image }}
   <header>
     {{ title_prefix }}
     {% if not page %}
