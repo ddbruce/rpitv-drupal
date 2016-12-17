@@ -33,6 +33,13 @@ body {
 }
 
 div.featured-production {
+  @extend .hoverable;
+  transition: box-shadow .5s;
+
+  &:hover {
+    box-shadow: 0 8px 17px 0 rgba(0,0,0,0.6), 0 6px 20px 0 rgba(0,0,0,0.5);
+  }
+
   div.card-image {
     span.card-title {
       @extend .flow-text;
