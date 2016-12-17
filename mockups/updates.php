@@ -9,7 +9,7 @@
   <div class="container section">
     <div class="row">
       <div class="col s12 m6 l7">
-        <h4 class="white-text">News Updates</h4>
+        <h3 class="white-text">News Updates</h3>
         <div class="row">
           <div class="col s12">
             <div class="card news-update">
