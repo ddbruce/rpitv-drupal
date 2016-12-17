@@ -5,7 +5,7 @@
 	<?php echo file_get_contents('partials/head.html'); ?>
 </head>
 <body class="grey darken-4">
-	<?php echo file_get_contents('partials/nav.html'); ?>	
+	<?php echo file_get_contents('partials/nav.html'); ?>
 	<div class="parallax-container">
 		<div class="section no-pad-bot">
 			<br>
@@ -18,7 +18,7 @@
 			</div>
 		</div>
 		<div class="parallax">
-			<img src="http://rpitv.org/sys_i/original/1002.jpg" alt="brf_image">
+			<img src="http://rpitv.org/sys_i/huge/1002.jpg" alt="brf_image">
 		</div>
 	</div>
 	<div class="container section">
