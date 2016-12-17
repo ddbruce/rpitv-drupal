@@ -5,24 +5,7 @@
 	<?php echo file_get_contents('partials/head.html'); ?>
 </head>
 <body class="grey darken-4">
-	<nav role="navigation" class="black">
-		<div class="nav-wrapper container">
-			<a href="#" class="brand-logo"><img src="resources/img/rpitv_logo.min.svg" alt="rpitv_logo" class=navbar-logo></a>
-			<a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
-			<ul id="nav-mobile" class="right hide-on-med-and-down">
-				<li><a class="waves-effect waves-light" href="productions.php">Productions</a></li>
-				<li><a class="waves-effect waves-light" href="news-updates.php">News Updates</a></li>
-				<li><a class="waves-effect waves-light" href="services.php">Services</a></li>
-				<li><a class="waves-effect waves-light" href="about.php">About</a></li>
-			</ul>
-			<ul class="side-nav" id="mobile-demo">
-				<li><a href="productions">Productions</a></li>
-				<li><a href="news-updates">News Updates</a></li>
-				<li><a href="services">Services</a></li>
-				<li><a href="about">About</a></li>
-			</ul>
-		</div>
-	</nav>
+	<?php echo file_get_contents('partials/nav.html'); ?>	
 	<div class="parallax-container">
 		<div class="section no-pad-bot">
 			<br>

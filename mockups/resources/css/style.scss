@@ -56,3 +56,18 @@ footer {
     }
   }
 }
+
+div.categories {
+  ul, li {
+    background-color: rgba(0,0,0,0) !important;
+    color: white;
+    border: none;
+  }
+  .collection {
+    .with-header {
+      .collection-header {
+        border-bottom-color: #757575;
+      }
+    }
+  }
+}
