@@ -128,25 +128,41 @@ footer {
   }
 }
 
-div.categories {
-  ul, li {
-    background-color: rgba(0,0,0,0) !important;
-    color: white;
-    border: none;
+
+.collection {
+  div.collection-header {
+    padding: 10px 20px;
+    border-bottom: 1px solid #e0e0e0;
+
+    p {
+      padding: 0;
+      margin: 0;
+      font-weight: bold;
+    }
   }
-  .collection {
-    li {
-      transition: background-color .25s;
-      &:hover {
-        background-color: #181818 !important;
-        transition: background-color .25s;
-      }
+
+  $class-slug: item-level !default;
+  $base-padding: 20px;
+  @for $i from 0 through 3 {
+    a.#{$class-slug}-#{$i} {
+      padding-left: 20px + ($i*15);
     }
-    .with-header {
-      .collection-header {
-        border-bottom: none;
-      }
-    }
+  }
+
+  .sub-item {
+    padding-left: 35px;
+  }
+
+  .sub-sub-item {
+    padding-left: 50px;
+  }
+
+  a {
+    @extend .red-text, .text-darken-4;
+  }
+
+  .active {
+    @extend .white-text, .red, .darken-4;
   }
 }
 

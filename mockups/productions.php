@@ -31,22 +31,27 @@
     </div>
     <div class="row">
       <div class="col hide-on-med-and-down m3 l2 categories">
-        <div class="white-text">
-          Browse by category
+        <div class="collection white">
+          <div class="collection-header">
+            <p>Browse by Category</p>
+          </div>
+          <a href="#!" class="collection-item item-level-0 active">All Productions</a>
+
+          <a href="#!" class="collection-item item-level-0">Sports</a>
+          <a href="#!" class="collection-item item-level-1">Hockey</a>
+          <a href="#!" class="collection-item item-level-1">Football</a>
+          <a href="#!" class="collection-item item-level-1">Soccer</a>
+
+          <a href="#!" class="collection-item item-level-0">Entertainment</a>
+          <a href="#!" class="collection-item item-level-1">Culture</a>
+          <a href="#!" class="collection-item item-level-1">Music</a>
+          <a href="#!" class="collection-item item-level-2">A Cappella</a>
+
+          <a href="#!" class="collection-item item-level-0">RPI TV Originals</a>
+          <a href="#!" class="collection-item item-level-1">NRB</a>
+
+          <a href="#!" class="collection-item item-level-0">Other</a>
         </div>
-        <ul class="collection grey">
-          <ul class="collection with-header grey">
-            <a href="productions/sports"><li class="collection-header red-text text-darken-2"><span class="grey-text text-darken-1">&gt;</span> Sports</li></a>
-            <a href="productions/hockey"><li class="collection-item red-text text-darken-2"><span class="grey-text text-darken-1">&gt;</span> Hockey</li></a>
-            <a href="productions/football"><li class="collection-item red-text text-darken-2"><span class="grey-text text-darken-1">&gt;</span> Football</li></a>
-            <a href="productions/soccer"><li class="collection-item red-text text-darken-2"><span class="grey-text text-darken-1">&gt;</span> Soccer</li></a>
-          </ul>
-          <ul class="collection with-header">
-            <a href="productions/entertainment"><li class="collection-header red-text text-darken-2"><span class="grey-text text-darken-1">&gt;</span> Entertainment</li></a>
-            <a href="productions/culture"><li class="collection-item red-text text-darken-2"><span class="grey-text text-darken-1">&gt;</span> Culture</li></a>
-            <a href="productions/music"><li class="collection-item red-text text-darken-2"><span class="grey-text text-darken-1">&gt;</span> Music</li></a>
-          </ul>
-        </ul>
       </div>
       <div class="col s12 m12 l10">
         <div class="row">
