@@ -90,3 +90,18 @@ div.categories {
     }
   }
 }
+
+.document-collection {
+  @extend .collection;
+
+  .title {
+    @extend .red-text, .text-darken-4;
+    font-size: 16px;
+    margin: 0;
+  }
+
+  p {
+    @extend .grey-text;
+    margin: 0;
+  }
+}
