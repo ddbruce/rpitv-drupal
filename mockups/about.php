@@ -10,10 +10,10 @@
     <div class="row">
       <div class="col s12">
         <h3>About RPI TV</h3>
-        <h4>About</h4>
+        <h5>Who we are</h5>
         <p>RPI TV is the student-run television station for Rensselaer Polytechnic Institute.  We are separate from the RPI campus cable TV service, which is managed by <a href="http://mms.rpi.edu/">MultiMedia Services</a>.  We provide TV production and web streaming services to campus organizations and film lots of events around campus, including hockey games, football games, news programs, cultural performances, and the GM Week Debates.</p>
         <br>
-        <h4>How To Join</h4>
+        <h5>Get involved!</h5>
         <p>We have a lot of fun, and we think you will too. Why not join us and find out? We meet every Tuesday at 9pm in Union 3202.</p>
       </div>
     </div>
