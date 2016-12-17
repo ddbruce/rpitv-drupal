@@ -47,3 +47,12 @@ div.featured-production {
   max-width: 200px;
   margin: 25px 0px;
 }
+
+footer {
+  div.connect {
+    a {
+      @extend .grey-text, .text-darken-2;
+      margin-right: 5px;
+    }
+  }
+}
