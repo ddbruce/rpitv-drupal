@@ -56,6 +56,7 @@
       <div class="col s12 m12 l10">
         <div class="row">
           <div class="col s12 m6 l4">
+  <a href="/productions/1191-sheer-idiocy-december-2016">
             <div class="card production">
               <div class="card-image">
                 <img src="http://rpitv.org/sys_i/wide/538.png">
@@ -65,11 +66,13 @@
                 <p class="truncate">RPI's only improv troupe performs in Mother's for the annual winter show.</p>
               </div>
               <div class="card-action">
-                <a href="/productions/1191-sheer-idiocy-december-2016"><i class="material-icons">videocam</i> Watch live</a>
+              <i class="material-icons">videocam</i> Watch live
               </div>
             </div>
+          </a>
           </div>
           <div class="col s12 m6 l4">
+<a href="/productions/1190-acha-hockey-vs-umass-amherst">
             <div class="card production">
               <div class="card-image">
                 <img src="http://rpitv.org/sys_i/wide/822.jpg">
@@ -79,11 +82,13 @@
                 <p class="truncate">The ACHA-league RPI Engineers take on the UMass Amherst something-or-others at the Houston Field House.</p>
               </div>
               <div class="card-action">
-                <a class="on-demand" href="/productions/1190-acha-hockey-vs-umass-amherst">Watch on-demand</a>
+                Watch on-demand
               </div>
             </div>
+          </a>
           </div>
           <div class="col s12 m6 l4">
+<a href="/productions/1190-acha-hockey-vs-umass-amherst">
             <div class="card production">
               <div class="card-image">
                 <img src="http://rpitv.org/sys_i/original/1007.jpg">
@@ -93,11 +98,13 @@
                 <p class="truncate">The Engineers take on the Bobcats in this Friday night rouse.</p>
               </div>
               <div class="card-action">
-                <a class="on-demand" href="/productions/1190-acha-hockey-vs-umass-amherst">Watch on-demand</a>
+                Watch on-demand
               </div>
             </div>
+          </a>
           </div>
           <div class="col s12 m6 l4">
+<a href="/productions/1190-acha-hockey-vs-umass-amherst">
             <div class="card production">
               <div class="card-image">
                 <img src="http://rpitv.org/sys_i/original/1010.png">
@@ -107,11 +114,13 @@
                 <p class="truncate">The Engineers take on the Bobcats in this Friday night rouse.</p>
               </div>
               <div class="card-action">
-                <a class="on-demand" href="/productions/1190-acha-hockey-vs-umass-amherst">Watch on-demand</a>
+                Watch on-demand
               </div>
             </div>
+          </a>
           </div>
           <div class="col s12 m6 l4">
+<a href="/productions/1190-acha-hockey-vs-umass-amherst">
             <div class="card production">
               <div class="card-image">
                 <img src="http://rpitv.org/sys_i/original/1010.png">
@@ -121,11 +130,13 @@
                 <p class="truncate">The Engineers take on the Bobcats in this Friday night rouse.</p>
               </div>
               <div class="card-action">
-                <a class="on-demand" href="/productions/1190-acha-hockey-vs-umass-amherst">Watch on-demand</a>
+                Watch on-demand
               </div>
             </div>
+          </a>
           </div>
           <div class="col s12 m6 l4">
+<a href="/productions/1190-acha-hockey-vs-umass-amherst">
             <div class="card production">
               <div class="card-image">
                 <img src="http://rpitv.org/sys_i/original/1010.png">
@@ -135,11 +146,13 @@
                 <p class="truncate">The Engineers take on the Bobcats in this Friday night rouse.</p>
               </div>
               <div class="card-action">
-                <a class="on-demand" href="/productions/1190-acha-hockey-vs-umass-amherst">Watch on-demand</a>
+                Watch on-demand
               </div>
             </div>
+          </a>
           </div>
           <div class="col s12 m6 l4">
+<a href="/productions/1190-acha-hockey-vs-umass-amherst">
             <div class="card production">
               <div class="card-image">
                 <img src="http://rpitv.org/sys_i/original/1010.png">
@@ -149,11 +162,13 @@
                 <p class="truncate">The Engineers take on the Bobcats in this Friday night rouse.</p>
               </div>
               <div class="card-action">
-                <a class="on-demand" href="/productions/1190-acha-hockey-vs-umass-amherst">Watch on-demand</a>
+                Watch on-demand
               </div>
             </div>
+          </a>
           </div>
           <div class="col s12 m6 l4">
+<a href="/productions/1190-acha-hockey-vs-umass-amherst">
             <div class="card production">
               <div class="card-image">
                 <img src="http://rpitv.org/sys_i/original/1010.png">
@@ -163,11 +178,13 @@
                 <p class="truncate">The Engineers take on the Bobcats in this Friday night rouse.</p>
               </div>
               <div class="card-action">
-                <a class="on-demand" href="/productions/1190-acha-hockey-vs-umass-amherst">Watch on-demand</a>
+                Watch on-demand
               </div>
             </div>
+          </a>
           </div>
           <div class="col s12 m6 l4">
+<a href="/productions/1190-acha-hockey-vs-umass-amherst">
             <div class="card production">
               <div class="card-image">
                 <img src="http://rpitv.org/sys_i/original/1010.png">
@@ -177,11 +194,13 @@
                 <p class="truncate">The Engineers take on the Bobcats in this Friday night rouse.</p>
               </div>
               <div class="card-action">
-                <a class="on-demand" href="/productions/1190-acha-hockey-vs-umass-amherst">Watch on-demand</a>
+                Watch on-demand
               </div>
             </div>
+          </a>
           </div>
           <div class="col s12 m6 l4">
+<a href="/productions/1190-acha-hockey-vs-umass-amherst">
             <div class="card production">
               <div class="card-image">
                 <img src="http://rpitv.org/sys_i/original/1010.png">
@@ -191,11 +210,13 @@
                 <p class="truncate">The Engineers take on the Bobcats in this Friday night rouse.</p>
               </div>
               <div class="card-action">
-                <a class="on-demand" href="/productions/1190-acha-hockey-vs-umass-amherst">Watch on-demand</a>
+                Watch on-demand
               </div>
             </div>
+          </a>
           </div>
           <div class="col s12 m6 l4">
+<a href="/productions/1190-acha-hockey-vs-umass-amherst">
             <div class="card production">
               <div class="card-image">
                 <img src="http://rpitv.org/sys_i/original/1010.png">
@@ -205,11 +226,13 @@
                 <p class="truncate">The Engineers take on the Bobcats in this Friday night rouse.</p>
               </div>
               <div class="card-action">
-                <a class="on-demand" href="/productions/1190-acha-hockey-vs-umass-amherst">Watch on-demand</a>
+                Watch on-demand
               </div>
             </div>
+          </a>
           </div>
           <div class="col s12 m6 l4">
+<a href="/productions/1190-acha-hockey-vs-umass-amherst">
             <div class="card production">
               <div class="card-image">
                 <img src="http://rpitv.org/sys_i/original/1010.png">
@@ -219,9 +242,10 @@
                 <p class="truncate">The Engineers take on the Bobcats in this Friday night rouse.</p>
               </div>
               <div class="card-action">
-                <a class="on-demand" href="/productions/1190-acha-hockey-vs-umass-amherst">Watch on-demand</a>
+                Watch on-demand
               </div>
             </div>
+          </a>
           </div>
         </div>
         <?php echo file_get_contents('partials/pagination.html'); ?>
