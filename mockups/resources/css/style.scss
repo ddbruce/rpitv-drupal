@@ -58,7 +58,7 @@ div.news-update {
 .footer-logo {
   width: 100%;
   max-width: 200px;
-  margin: 25px 0px;
+  margin-top: 25px;
 }
 
 footer {
@@ -103,5 +103,19 @@ div.categories {
   p {
     @extend .grey-text;
     margin: 0;
+  }
+}
+
+footer.page-footer {
+  background-color: #111111;
+
+  .footer-copyright {
+      @extend .black;
+
+      a {
+        @extend .grey-text, .text-lighten-4;
+
+        padding: 0px 15px;
+      }
   }
 }
