@@ -87,6 +87,7 @@
 			</div>
 		</div>
 	</div>
+	<?php echo file_get_contents('partials/footer.html'); ?>
 </div>
 <?php echo file_get_contents('partials/bottom_scripts.html'); ?>
 </body>
