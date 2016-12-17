@@ -19,7 +19,7 @@
   <div class="container section white-text">
     <div class="row">
       <div class="col s12 m12">
-        <h2><?php echo $title; ?></h2>
+        <h3><?php echo $title; ?></h3>
 
         <?php echo $body; ?>
       </div>
