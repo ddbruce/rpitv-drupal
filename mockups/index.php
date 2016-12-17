@@ -29,60 +29,68 @@
 		</div>
 		<div class="row">
 			<div class="col s12 m6">
-				<div class="card featured-production">
-					<div class="card-image">
-						<img src="http://rpitv.org/sys_i/wide/538.png">
-						<span class="card-title">Sheer Idiocy - December 2016</span>
+				<a href="/productions/1191-sheer-idiocy-december-2016">
+					<div class="card featured-production">
+						<div class="card-image">
+							<img src="http://rpitv.org/sys_i/wide/538.png">
+							<span class="card-title">Sheer Idiocy - December 2016</span>
+						</div>
+						<div class="card-content">
+							<p class="truncate">RPI's only improv troupe performs in Mother's for the annual winter show.</p>
+						</div>
+						<div class="card-action waves-effect">
+							<i class="material-icons">videocam</i> Watch live
+						</div>
 					</div>
-					<div class="card-content">
-						<p class="truncate">RPI's only improv troupe performs in Mother's for the annual winter show.</p>
-					</div>
-					<div class="card-action">
-						<a href="/productions/1191-sheer-idiocy-december-2016"><i class="material-icons">videocam</i> Watch live</a>
-					</div>
-				</div>
+				</a>
 			</div>
 			<div class="col s12 m6">
-				<div class="card featured-production">
-					<div class="card-image">
-						<img src="http://rpitv.org/sys_i/wide/822.jpg">
-						<span class="card-title">ACHA Hockey vs. UMass Amherst</span>
+				<a href="/productions/1190-acha-hockey-vs-umass-amherst">
+					<div class="card featured-production">
+						<div class="card-image">
+							<img src="http://rpitv.org/sys_i/wide/822.jpg">
+							<span class="card-title">ACHA Hockey vs. UMass Amherst</span>
+						</div>
+						<div class="card-content">
+							<p class=truncate>The ACHA-league RPI Engineers take on the UMass Amherst something-or-others at the Houston Field House.</p>
+						</div>
+						<div class="card-action waves-effect">
+							Watch on-demand
+						</div>
 					</div>
-					<div class="card-content">
-						<p class=truncate>The ACHA-league RPI Engineers take on the UMass Amherst something-or-others at the Houston Field House.</p>
-					</div>
-					<div class="card-action">
-						<a class="on-demand" href="/productions/1190-acha-hockey-vs-umass-amherst">Watch on-demand</a>
-					</div>
-				</div>
+				</a>
 			</div>
 			<div class="col s12 m6">
-				<div class="card featured-production">
-					<div class="card-image">
-						<img src="http://rpitv.org/sys_i/original/1007.jpg">
-						<span class="card-title">Women's Hockey vs. Quinnipiac</span>
+				<a href="/productions/1190-acha-hockey-vs-umass-amherst">
+					<div class="card featured-production">
+						<div class="card-image">
+							<img src="http://rpitv.org/sys_i/original/1007.jpg">
+							<span class="card-title">Women's Hockey vs. Quinnipiac</span>
+						</div>
+						<div class="card-content">
+							<p class=truncate>The Engineers take on the Bobcats in this Friday night rouse.</p>
+						</div>
+						<div class="card-action waves-effect">
+							Watch on-demand
+						</div>
 					</div>
-					<div class="card-content">
-						<p class=truncate>The Engineers take on the Bobcats in this Friday night rouse.</p>
-					</div>
-					<div class="card-action">
-						<a class="on-demand" href="/productions/1190-acha-hockey-vs-umass-amherst">Watch on-demand</a>
-					</div>
-				</div>
+				</a>
 			</div>
 			<div class="col s12 m6">
-				<div class="card featured-production">
-					<div class="card-image">
-						<img src="http://rpitv.org/sys_i/original/1010.png">
-						<span class="card-title">Jazz at Rensselaer: Big Swells and Jingle Bells and a Longer Title</span>
+				<a href="/productions/1190-acha-hockey-vs-umass-amherst">
+					<div class="card featured-production">
+						<div class="card-image">
+							<img src="http://rpitv.org/sys_i/original/1010.png">
+							<span class="card-title">Jazz at Rensselaer: Big Swells and Jingle Bells and a Longer Title</span>
+						</div>
+						<div class="card-content">
+							<p class=truncate>The Engineers take on the Bobcats in this Friday night rouse.</p>
+						</div>
+						<div class="card-action waves-effect">
+							Watch on-demand
+						</div>
 					</div>
-					<div class="card-content">
-						<p class=truncate>The Engineers take on the Bobcats in this Friday night rouse.</p>
-					</div>
-					<div class="card-action">
-						<a class="on-demand" href="/productions/1190-acha-hockey-vs-umass-amherst">Watch on-demand</a>
-					</div>
-				</div>
+				</a>
 			</div>
 		</div>
 	</div>

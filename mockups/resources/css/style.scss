@@ -47,15 +47,23 @@ div.featured-production {
       background-color: rgba(0,0,0,.5);
     }
   }
+  div.card-content {
+    p {
+      color: black;
+    }
+  }
   div.card-action {
-    a {
-      @extend .red-text, .text-darken-4;
-
-      i {
-        font-size: 20px;
-        margin-bottom: -2px;
-        vertical-align: middle !important;
-      }
+    @extend .red-text, .text-darken-4;
+    display: block;
+    i {
+      font-size: 20px;
+      margin-bottom: -2px;
+      vertical-align: middle !important;
+    }
+    transition: background-color .25s;
+    &:hover {
+      @extend .grey, .lighten-2;
+      transition: background-color .25s;
     }
   }
 }
@@ -128,6 +136,7 @@ div.categories {
   }
   .collection {
     li {
+      transition: background-color .25s;
       &:hover {
         background-color: #181818 !important;
         transition: background-color .25s;
@@ -160,12 +169,12 @@ footer.page-footer {
   background-color: #111111;
 
   .footer-copyright {
-      @extend .black;
+    @extend .black;
 
-      a {
-        @extend .grey-text, .text-lighten-4;
+    a {
+      @extend .grey-text, .text-lighten-4;
 
-        padding: 0px 15px;
-      }
+      padding: 0px 15px;
+    }
   }
 }
