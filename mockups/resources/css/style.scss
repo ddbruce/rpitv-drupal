@@ -20,6 +20,18 @@ body {
   }
 }
 
+.pagination {
+  li.active {
+    @extend .red, .darken-4;
+  }
+  li a {
+    @extend .grey-text, .text-lighten-2;
+  }
+  li.disabled a {
+    @extend .grey-text, .text-darken-3;
+  }
+}
+
 div.featured-production {
   div.card-image {
     span.card-title {
