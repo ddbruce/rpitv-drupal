@@ -13,27 +13,27 @@
       </div>
     </div>
     <div class="row">
-      <div class="col m2 categories">
+      <div class="col s12 m6 l2 categories">
         <div class="white-text">
           Browse by category
         </div>
         <ul class="collection grey">
           <ul class="collection with-header grey">
-            <a href="productions/sports"><li class="collection-header">Sports</li></a>
-            <a href="productions/hockey"><li class="collection-item">Hockey</li></a>
-            <a href="productions/football"><li class="collection-item">Football</li></a>
-            <a href="productions/soccer"><li class="collection-item">Soccer</li></a>
+            <a href="productions/sports"><li class="collection-header red-text text-darken-2"><span class="grey-text text-darken-1">&gt;</span> Sports</li></a>
+            <a href="productions/hockey"><li class="collection-item red-text text-darken-2"><span class="grey-text text-darken-1">&gt;</span> Hockey</li></a>
+            <a href="productions/football"><li class="collection-item red-text text-darken-2"><span class="grey-text text-darken-1">&gt;</span> Football</li></a>
+            <a href="productions/soccer"><li class="collection-item red-text text-darken-2"><span class="grey-text text-darken-1">&gt;</span> Soccer</li></a>
           </ul>
           <ul class="collection with-header">
-            <a href="productions/entertainment"><li class="collection-header">Entertainment</li></a>
-            <a href="productions/culture"><li class="collection-item">Culture</li></a>
-            <a href="productions/music"><li class="collection-item">Music</li></a>
+            <a href="productions/entertainment"><li class="collection-header red-text text-darken-2"><span class="grey-text text-darken-1">&gt;</span> Entertainment</li></a>
+            <a href="productions/culture"><li class="collection-item red-text text-darken-2"><span class="grey-text text-darken-1">&gt;</span> Culture</li></a>
+            <a href="productions/music"><li class="collection-item red-text text-darken-2"><span class="grey-text text-darken-1">&gt;</span> Music</li></a>
           </ul>
         </ul>
       </div>
-      <div class="col m10">
+      <div class="col s12 m6 l10">
         <div class="row">
-          <div class="col s12 m4">
+          <div class="col s12 m12 l6">
             <div class="card featured-production">
               <div class="card-image">
                 <img src="http://rpitv.org/sys_i/wide/538.png">
@@ -47,7 +47,7 @@
               </div>
             </div>
           </div>
-          <div class="col s12 m4">
+          <div class="col s12 m12 l6">
             <div class="card featured-production">
               <div class="card-image">
                 <img src="http://rpitv.org/sys_i/wide/822.jpg">
@@ -61,7 +61,7 @@
               </div>
             </div>
           </div>
-          <div class="col s12 m4">
+          <div class="col s12 m12 l6">
             <div class="card featured-production">
               <div class="card-image">
                 <img src="http://rpitv.org/sys_i/original/1007.jpg">
@@ -75,7 +75,7 @@
               </div>
             </div>
           </div>
-          <div class="col s12 m4">
+          <div class="col s12 m12 l6">
             <div class="card featured-production">
               <div class="card-image">
                 <img src="http://rpitv.org/sys_i/original/1010.png">
