@@ -35,22 +35,22 @@
           <div class="collection-header">
             <p>Browse by Category</p>
           </div>
-          <a href="#!" class="collection-item item-level-0 active">All Productions</a>
+          <a href="#!" class="collection-item item-level-0 waves-effect active">All Productions</a>
 
-          <a href="#!" class="collection-item item-level-0">Sports</a>
-          <a href="#!" class="collection-item item-level-1">Hockey</a>
-          <a href="#!" class="collection-item item-level-1">Football</a>
-          <a href="#!" class="collection-item item-level-1">Soccer</a>
+          <a href="#!" class="collection-item item-level-0 waves-effect">Sports</a>
+          <a href="#!" class="collection-item item-level-1 waves-effect">Hockey</a>
+          <a href="#!" class="collection-item item-level-1 waves-effect">Football</a>
+          <a href="#!" class="collection-item item-level-1 waves-effect">Soccer</a>
 
-          <a href="#!" class="collection-item item-level-0">Entertainment</a>
-          <a href="#!" class="collection-item item-level-1">Culture</a>
-          <a href="#!" class="collection-item item-level-1">Music</a>
-          <a href="#!" class="collection-item item-level-2">A Cappella</a>
+          <a href="#!" class="collection-item item-level-0 waves-effect">Entertainment</a>
+          <a href="#!" class="collection-item item-level-1 waves-effect">Culture</a>
+          <a href="#!" class="collection-item item-level-1 waves-effect">Music</a>
+          <a href="#!" class="collection-item item-level-2 waves-effect">A Cappella</a>
 
-          <a href="#!" class="collection-item item-level-0">RPI TV Originals</a>
-          <a href="#!" class="collection-item item-level-1">NRB</a>
+          <a href="#!" class="collection-item item-level-0 waves-effect">RPI TV Originals</a>
+          <a href="#!" class="collection-item item-level-1 waves-effect">NRB</a>
 
-          <a href="#!" class="collection-item item-level-0">Other</a>
+          <a href="#!" class="collection-item item-level-0 waves-effect">Other</a>
         </div>
       </div>
       <div class="col s12 m12 l10">
