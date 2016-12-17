@@ -9,7 +9,7 @@
   <div class="container section">
     <div class="row">
       <div class="col s12">
-        <h4 class="white-text">Productions</h4>
+        <h3 class="white-text">Productions</h3>
       </div>
     </div>
     <div class="row hide-on-large-only">
