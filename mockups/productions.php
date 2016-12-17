@@ -13,7 +13,7 @@
       </div>
     </div>
     <div class="row">
-      <div class="col s12 m6 l2 categories">
+      <div class="col s12 m3 l2 categories">
         <div class="white-text">
           Browse by category
         </div>
@@ -31,10 +31,10 @@
           </ul>
         </ul>
       </div>
-      <div class="col s12 m6 l10">
+      <div class="col s12 m9 l10">
         <div class="row">
           <div class="col s12 m6 l4">
-            <div class="card featured-production">
+            <div class="card production">
               <div class="card-image">
                 <img src="http://rpitv.org/sys_i/wide/538.png">
                 <span class="card-title">Sheer Idiocy - December 2016</span>
@@ -48,7 +48,7 @@
             </div>
           </div>
           <div class="col s12 m6 l4">
-            <div class="card featured-production">
+            <div class="card production">
               <div class="card-image">
                 <img src="http://rpitv.org/sys_i/wide/822.jpg">
                 <span class="card-title">ACHA Hockey vs. UMass Amherst</span>
@@ -62,7 +62,7 @@
             </div>
           </div>
           <div class="col s12 m6 l4">
-            <div class="card featured-production">
+            <div class="card production">
               <div class="card-image">
                 <img src="http://rpitv.org/sys_i/original/1007.jpg">
                 <span class="card-title">Women's Hockey vs. Quinnipiac</span>
@@ -76,7 +76,7 @@
             </div>
           </div>
           <div class="col s12 m6 l4">
-            <div class="card featured-production">
+            <div class="card production">
               <div class="card-image">
                 <img src="http://rpitv.org/sys_i/original/1010.png">
                 <span class="card-title">Jazz at Rensselaer: Big Swells and Jingle Bells and a Longer Title</span>
@@ -90,7 +90,7 @@
             </div>
           </div>
           <div class="col s12 m6 l4">
-            <div class="card featured-production">
+            <div class="card production">
               <div class="card-image">
                 <img src="http://rpitv.org/sys_i/original/1010.png">
                 <span class="card-title">Jazz at Rensselaer: Big Swells and Jingle Bells and a Longer Title</span>
@@ -104,7 +104,7 @@
             </div>
           </div>
           <div class="col s12 m6 l4">
-            <div class="card featured-production">
+            <div class="card production">
               <div class="card-image">
                 <img src="http://rpitv.org/sys_i/original/1010.png">
                 <span class="card-title">Jazz at Rensselaer: Big Swells and Jingle Bells and a Longer Title</span>
@@ -118,7 +118,7 @@
             </div>
           </div>
           <div class="col s12 m6 l4">
-            <div class="card featured-production">
+            <div class="card production">
               <div class="card-image">
                 <img src="http://rpitv.org/sys_i/original/1010.png">
                 <span class="card-title">Jazz at Rensselaer: Big Swells and Jingle Bells and a Longer Title</span>
@@ -132,7 +132,7 @@
             </div>
           </div>
           <div class="col s12 m6 l4">
-            <div class="card featured-production">
+            <div class="card production">
               <div class="card-image">
                 <img src="http://rpitv.org/sys_i/original/1010.png">
                 <span class="card-title">Jazz at Rensselaer: Big Swells and Jingle Bells and a Longer Title</span>
@@ -146,7 +146,7 @@
             </div>
           </div>
           <div class="col s12 m6 l4">
-            <div class="card featured-production">
+            <div class="card production">
               <div class="card-image">
                 <img src="http://rpitv.org/sys_i/original/1010.png">
                 <span class="card-title">Jazz at Rensselaer: Big Swells and Jingle Bells and a Longer Title</span>
@@ -160,7 +160,7 @@
             </div>
           </div>
           <div class="col s12 m6 l4">
-            <div class="card featured-production">
+            <div class="card production">
               <div class="card-image">
                 <img src="http://rpitv.org/sys_i/original/1010.png">
                 <span class="card-title">Jazz at Rensselaer: Big Swells and Jingle Bells and a Longer Title</span>
@@ -174,7 +174,7 @@
             </div>
           </div>
           <div class="col s12 m6 l4">
-            <div class="card featured-production">
+            <div class="card production">
               <div class="card-image">
                 <img src="http://rpitv.org/sys_i/original/1010.png">
                 <span class="card-title">Jazz at Rensselaer: Big Swells and Jingle Bells and a Longer Title</span>
@@ -188,7 +188,7 @@
             </div>
           </div>
           <div class="col s12 m6 l4">
-            <div class="card featured-production">
+            <div class="card production">
               <div class="card-image">
                 <img src="http://rpitv.org/sys_i/original/1010.png">
                 <span class="card-title">Jazz at Rensselaer: Big Swells and Jingle Bells and a Longer Title</span>

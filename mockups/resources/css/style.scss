@@ -29,6 +29,13 @@ div.featured-production {
   }
 }
 
+div.production {
+  @extend div.featured-production;
+  span.card-title {
+    font-size: 17px;
+  }
+}
+
 .parallax-container {
   width: 100%;
 }
