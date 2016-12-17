@@ -13,6 +13,7 @@
 div.featured-production {
   div.card-image {
     span.card-title {
+      @extend .flow-text;
       width: 100%;
       background-color: rgba(0,0,0,.5);
     }
@@ -31,9 +32,14 @@ div.featured-production {
 
 div.production {
   @extend div.featured-production;
-  span.card-title {
-    font-size: 17px;
-  }
+
+  // span.card-title {
+  //   font-size: 1.25rem
+  // }
+}
+
+div.news-update {
+  @extend div.featured-production;
 }
 
 .parallax-container {

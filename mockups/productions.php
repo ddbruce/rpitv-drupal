@@ -12,8 +12,25 @@
         <h4 class="white-text">Productions</h4>
       </div>
     </div>
+    <div class="row hide-on-large-only">
+      <div class="col s12 m12 right-align">
+        <!-- Dropdown Trigger -->
+        <a class="dropdown-button btn red darken-4" href="#" data-activates="categoryDropdown">Filter By Category</a>
+
+        <!-- Dropdown Structure -->
+        <ul id="categoryDropdown" class="dropdown-content">
+          <li><a href="#!">Sports</a></li>
+          <li class="divider"></li>
+          <li><a href="#!">Entertainment</a></li>
+          <li class="divider"></li>
+          <li><a href="#!">RPI TV Originals</a></li>
+          <li class="divider"></li>
+          <li><a href="#!">Other</a></li>
+        </ul>
+      </div>
+    </div>
     <div class="row">
-      <div class="col s12 m3 l2 categories">
+      <div class="col hide-on-med-and-down m3 l2 categories">
         <div class="white-text">
           Browse by category
         </div>
@@ -31,7 +48,7 @@
           </ul>
         </ul>
       </div>
-      <div class="col s12 m9 l10">
+      <div class="col s12 m12 l10">
         <div class="row">
           <div class="col s12 m6 l4">
             <div class="card production">
