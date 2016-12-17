@@ -33,7 +33,7 @@
       </div>
       <div class="col s12 m6 l10">
         <div class="row">
-          <div class="col s12 m12 l6">
+          <div class="col s12 m6 l4">
             <div class="card featured-production">
               <div class="card-image">
                 <img src="http://rpitv.org/sys_i/wide/538.png">
@@ -47,48 +47,171 @@
               </div>
             </div>
           </div>
-          <div class="col s12 m12 l6">
+          <div class="col s12 m6 l4">
             <div class="card featured-production">
               <div class="card-image">
                 <img src="http://rpitv.org/sys_i/wide/822.jpg">
                 <span class="card-title">ACHA Hockey vs. UMass Amherst</span>
               </div>
               <div class="card-content">
-                <p class=truncate>The ACHA-league RPI Engineers take on the UMass Amherst something-or-others at the Houston Field House.</p>
+                <p class="truncate">The ACHA-league RPI Engineers take on the UMass Amherst something-or-others at the Houston Field House.</p>
               </div>
               <div class="card-action">
                 <a class="on-demand" href="/productions/1190-acha-hockey-vs-umass-amherst">Watch on-demand</a>
               </div>
             </div>
           </div>
-          <div class="col s12 m12 l6">
+          <div class="col s12 m6 l4">
             <div class="card featured-production">
               <div class="card-image">
                 <img src="http://rpitv.org/sys_i/original/1007.jpg">
                 <span class="card-title">Women's Hockey vs. Quinnipiac</span>
               </div>
               <div class="card-content">
-                <p class=truncate>The Engineers take on the Bobcats in this Friday night rouse.</p>
+                <p class="truncate">The Engineers take on the Bobcats in this Friday night rouse.</p>
               </div>
               <div class="card-action">
                 <a class="on-demand" href="/productions/1190-acha-hockey-vs-umass-amherst">Watch on-demand</a>
               </div>
             </div>
           </div>
-          <div class="col s12 m12 l6">
+          <div class="col s12 m6 l4">
             <div class="card featured-production">
               <div class="card-image">
                 <img src="http://rpitv.org/sys_i/original/1010.png">
                 <span class="card-title">Jazz at Rensselaer: Big Swells and Jingle Bells and a Longer Title</span>
               </div>
               <div class="card-content">
-                <p class=truncate>The Engineers take on the Bobcats in this Friday night rouse.</p>
+                <p class="truncate">The Engineers take on the Bobcats in this Friday night rouse.</p>
               </div>
               <div class="card-action">
                 <a class="on-demand" href="/productions/1190-acha-hockey-vs-umass-amherst">Watch on-demand</a>
               </div>
             </div>
           </div>
+          <div class="col s12 m6 l4">
+            <div class="card featured-production">
+              <div class="card-image">
+                <img src="http://rpitv.org/sys_i/original/1010.png">
+                <span class="card-title">Jazz at Rensselaer: Big Swells and Jingle Bells and a Longer Title</span>
+              </div>
+              <div class="card-content">
+                <p class="truncate">The Engineers take on the Bobcats in this Friday night rouse.</p>
+              </div>
+              <div class="card-action">
+                <a class="on-demand" href="/productions/1190-acha-hockey-vs-umass-amherst">Watch on-demand</a>
+              </div>
+            </div>
+          </div>
+          <div class="col s12 m6 l4">
+            <div class="card featured-production">
+              <div class="card-image">
+                <img src="http://rpitv.org/sys_i/original/1010.png">
+                <span class="card-title">Jazz at Rensselaer: Big Swells and Jingle Bells and a Longer Title</span>
+              </div>
+              <div class="card-content">
+                <p class="truncate">The Engineers take on the Bobcats in this Friday night rouse.</p>
+              </div>
+              <div class="card-action">
+                <a class="on-demand" href="/productions/1190-acha-hockey-vs-umass-amherst">Watch on-demand</a>
+              </div>
+            </div>
+          </div>
+          <div class="col s12 m6 l4">
+            <div class="card featured-production">
+              <div class="card-image">
+                <img src="http://rpitv.org/sys_i/original/1010.png">
+                <span class="card-title">Jazz at Rensselaer: Big Swells and Jingle Bells and a Longer Title</span>
+              </div>
+              <div class="card-content">
+                <p class="truncate">The Engineers take on the Bobcats in this Friday night rouse.</p>
+              </div>
+              <div class="card-action">
+                <a class="on-demand" href="/productions/1190-acha-hockey-vs-umass-amherst">Watch on-demand</a>
+              </div>
+            </div>
+          </div>
+          <div class="col s12 m6 l4">
+            <div class="card featured-production">
+              <div class="card-image">
+                <img src="http://rpitv.org/sys_i/original/1010.png">
+                <span class="card-title">Jazz at Rensselaer: Big Swells and Jingle Bells and a Longer Title</span>
+              </div>
+              <div class="card-content">
+                <p class="truncate">The Engineers take on the Bobcats in this Friday night rouse.</p>
+              </div>
+              <div class="card-action">
+                <a class="on-demand" href="/productions/1190-acha-hockey-vs-umass-amherst">Watch on-demand</a>
+              </div>
+            </div>
+          </div>
+          <div class="col s12 m6 l4">
+            <div class="card featured-production">
+              <div class="card-image">
+                <img src="http://rpitv.org/sys_i/original/1010.png">
+                <span class="card-title">Jazz at Rensselaer: Big Swells and Jingle Bells and a Longer Title</span>
+              </div>
+              <div class="card-content">
+                <p class="truncate">The Engineers take on the Bobcats in this Friday night rouse.</p>
+              </div>
+              <div class="card-action">
+                <a class="on-demand" href="/productions/1190-acha-hockey-vs-umass-amherst">Watch on-demand</a>
+              </div>
+            </div>
+          </div>
+          <div class="col s12 m6 l4">
+            <div class="card featured-production">
+              <div class="card-image">
+                <img src="http://rpitv.org/sys_i/original/1010.png">
+                <span class="card-title">Jazz at Rensselaer: Big Swells and Jingle Bells and a Longer Title</span>
+              </div>
+              <div class="card-content">
+                <p class="truncate">The Engineers take on the Bobcats in this Friday night rouse.</p>
+              </div>
+              <div class="card-action">
+                <a class="on-demand" href="/productions/1190-acha-hockey-vs-umass-amherst">Watch on-demand</a>
+              </div>
+            </div>
+          </div>
+          <div class="col s12 m6 l4">
+            <div class="card featured-production">
+              <div class="card-image">
+                <img src="http://rpitv.org/sys_i/original/1010.png">
+                <span class="card-title">Jazz at Rensselaer: Big Swells and Jingle Bells and a Longer Title</span>
+              </div>
+              <div class="card-content">
+                <p class="truncate">The Engineers take on the Bobcats in this Friday night rouse.</p>
+              </div>
+              <div class="card-action">
+                <a class="on-demand" href="/productions/1190-acha-hockey-vs-umass-amherst">Watch on-demand</a>
+              </div>
+            </div>
+          </div>
+          <div class="col s12 m6 l4">
+            <div class="card featured-production">
+              <div class="card-image">
+                <img src="http://rpitv.org/sys_i/original/1010.png">
+                <span class="card-title">Jazz at Rensselaer: Big Swells and Jingle Bells and a Longer Title</span>
+              </div>
+              <div class="card-content">
+                <p class="truncate">The Engineers take on the Bobcats in this Friday night rouse.</p>
+              </div>
+              <div class="card-action">
+                <a class="on-demand" href="/productions/1190-acha-hockey-vs-umass-amherst">Watch on-demand</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row center-align">
+          <ul class="pagination">
+            <li class="disabled"><a href="#!"><i class="material-icons">chevron_left</i></a></li>
+            <li class="active"><a href="#!">1</a></li>
+            <li class="waves-effect"><a href="#!">2</a></li>
+            <li class="waves-effect"><a href="#!">3</a></li>
+            <li class="waves-effect"><a href="#!">4</a></li>
+            <li class="waves-effect"><a href="#!">5</a></li>
+            <li class="waves-effect"><a href="#!"><i class="material-icons">chevron_right</i></a></li>
+          </ul>
         </div>
       </div>
     </div>
