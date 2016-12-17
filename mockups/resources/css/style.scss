@@ -55,9 +55,21 @@ div.featured-production {
 div.production {
   @extend div.featured-production;
 
-  // span.card-title {
-  //   font-size: 1.25rem
-  // }
+  @media only screen and (min-width: 1390px) {
+    span.card-title {
+      font-size: 1.25rem !important;
+    }
+  }
+  @media only screen and (min-width: 992px) and (max-width: 1190px) {
+    span.card-title {
+      font-size: 1rem !important;
+    }
+  }
+  @media only screen and (min-width: 1190px) and (max-width: 1390px) {
+    span.card-title {
+      font-size: 1.1rem !important;
+    }
+  }
 }
 
 div.news-update {
