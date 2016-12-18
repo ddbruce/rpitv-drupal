@@ -14,6 +14,10 @@ body {
   flex-direction: column;
 }
 
+.white a, .black-text a {
+  @extend .red-text, .text-darken-4;
+}
+
 .container.section {
   flex: 1;
 }
