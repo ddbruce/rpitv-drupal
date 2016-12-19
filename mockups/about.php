@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-  <title>Updates | RPI TV</title>
+  <title>About | RPI TV</title>
   <?php echo file_get_contents('partials/head.html'); ?>
 </head>
 <body class="grey darken-4">
