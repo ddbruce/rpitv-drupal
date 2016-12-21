@@ -1,0 +1,13 @@
+.toolbar-bar {
+  height: 40px !IMPORTANT;
+  line-height: 13px !IMPORTANT;
+}
+
+.toolbar-lining {
+  background-color: inherit !IMPORTANT;
+  height: inherit !IMPORTANT;
+}
+
+.toolbar-icon {
+  font-size: 10pt !IMPORTANT;
+}

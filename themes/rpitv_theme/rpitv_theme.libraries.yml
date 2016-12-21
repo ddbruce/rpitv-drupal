@@ -1,0 +1,26 @@
+global-styling:
+  version: VERSION
+  css:
+    base:
+      css/main.css: {}
+    font-awesome:
+      'https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css': {type: external}
+    toolbar:
+      css/toolbar/toolbar.icons.theme.css: {}
+      css/toolbar/toolbar.menu.css: {}
+      css/toolbar/toolbar.module.css: {}
+      css/toolbar/toolbar.theme.css: {}
+      css/toolbar/toolbar.custom.css: {}
+
+materialize:
+  version: 0.97.8
+  js:
+    js/materialize.js: {}
+  dependencies:
+    - core/jquery
+
+run:
+  js:
+    js/run.js: {}
+  dependencies:
+    - core/jquery

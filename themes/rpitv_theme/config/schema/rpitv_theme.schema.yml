@@ -1,0 +1,5 @@
+# Schema for the configuration files of the Stark theme.
+
+rpitv_theme.settings:
+  type: theme_settings
+  label: 'RPI TV Theme settings'

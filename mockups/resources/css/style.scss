@@ -197,6 +197,10 @@ footer {
 footer.page-footer {
   background-color: #111111;
 
+  a {
+    @extend .red-text, .text-darken-4;
+  }
+
   .footer-copyright {
     @extend .black;
 
@@ -204,6 +208,11 @@ footer.page-footer {
       @extend .grey-text, .text-lighten-4;
 
       padding: 0px 15px;
+    }
+
+    p {
+      margin-bottom: inherit;
+      margin-top: inherit;
     }
   }
 }
